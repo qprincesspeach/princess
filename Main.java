@@ -16,4 +16,4 @@ class Main{
     yoshi.attack();
     yoshi.defend();
    }
-  }
+  }//Great JOB!.><.!!!!
